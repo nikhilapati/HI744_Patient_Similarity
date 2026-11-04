@@ -1,0 +1,16 @@
+{
+  "tfidf": {
+    "mean_precision_5": 0.006597505536775849,
+    "mean_recall_5": 0.02901566497491441,
+    "recall_excluded": 3777
+  },
+  "bm25": {
+    "mean_precision_5": 0.005548432218207251,
+    "mean_recall_5": 0.02462463742686895,
+    "recall_excluded": 3777
+  },
+  "mean_top5_overlap": 0.5586198857675719,
+  "dataset_size": 8579,
+  "mean_words_raw": 451.87446089287795,
+  "relevance_links_outside_corpus": 10950
+}
